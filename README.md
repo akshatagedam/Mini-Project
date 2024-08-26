@@ -1,2 +1,1 @@
 # Mini-Project
-Dermatology Project
